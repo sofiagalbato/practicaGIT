@@ -11,3 +11,8 @@ int main()
     char nombre = "juan";
     return 0;
 }
+
+int cargarNumero(){
+    //código de la función
+}
+
