@@ -13,6 +13,7 @@ int main()
 }
 
 int cargarNumero(){
-    //código de la función
+    int numero = 30
+    return numero;
 }
 
