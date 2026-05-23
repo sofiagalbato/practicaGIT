@@ -8,6 +8,8 @@ int main()
     printf("Hello world!\n");
     int num = 28;
 
+    int resultado = funcionConflicto(num);
+
     char nombre = "juan";
     return 0;
 }
@@ -15,5 +17,9 @@ int main()
 int cargarNumero(){
     int numero = 30
     return numero;
+}
+
+int funcionConflicto(int num){
+    return num + 5;
 }
 
