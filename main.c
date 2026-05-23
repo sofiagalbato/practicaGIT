@@ -20,6 +20,8 @@ int cargarNumero(){
 }
 
 int funcionConflicto(int num){
+    printf("\nnumero: %i",num);
     return num + 5;
+
 }
 
